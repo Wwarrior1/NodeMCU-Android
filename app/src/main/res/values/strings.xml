@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Client</string>
+    <string name="main_welcome_string">Please choose sensor to checkout</string>
+</resources>

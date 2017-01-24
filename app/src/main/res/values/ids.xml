@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_row_sensor_title" type="id">title</item>
+    <item name="list_row_sensor_description" type="id">description</item>
+    <item name="sensor_home_status_textview" type="id" />
+    <item name="sensor_home_connect_button" type="id" />
+    <item name="sensor_home_value_textview" type="id" />
+    <item name="sensor_home_unit_textview" type="id" />
+    <item name="sensor_home_sensor_name_textview" type="id" />
+    <item name="sensor_home_update_received_radiobutton" type="id" />
+    <item name="sensor_home_waiting_for_update_radiobutton" type="id" />
+</resources>
